@@ -1,6 +1,6 @@
 # Welcome to The Balinese NFT 💎
 
-![](https://github.com/thebalinese/nft/nft-minting-app/blob/main/logo-blob.png)
+![](https://github.com/thebalinese/nft/blob/main/nft-minting-app-main/logo-blob.png)
 
 All the code in these repos was created and explained by Thebalinese on the main YouTube channel.
 
