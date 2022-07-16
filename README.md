@@ -113,7 +113,7 @@ npm run start
 Or create the build if you are ready to deploy.
 
 ```sh
-npm run build
+CI= npm run build
 ```
 
 Now you can host the contents of the build folder on a server.
