@@ -1,6 +1,6 @@
 # Welcome to The Balinese NFT 💎
 
-![](https://github.com/thebalinese/nft/blob/main/nft-minting-app-main/logo-blob.png)
+![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
@@ -56,7 +56,7 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
     "ID": 137
   },
   "NFT_NAME": "The Balinese",
-  "SYMBOL": "TSNFT",
+  "SYMBOL": "BALI",
   "MAX_SUPPLY": 992,
   "WEI_COST": 500000000000000000,
   "DISPLAY_COST": 0.5,
