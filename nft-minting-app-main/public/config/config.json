@@ -3,11 +3,11 @@
   "SCAN_LINK": "https://polygonscan.com/token/0x28F8CBa2514F20a4654D41321a27b2Caf27619ef",
   "NETWORK": {
     "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "SYMBOL": "WETH",
     "ID": 137
   },
   "NFT_NAME": "The Balinese",
-  "SYMBOL": "TSNFT",
+  "SYMBOL": "BALI",
   "MAX_SUPPLY": 992,
   "WEI_COST": 500000000000000000,
   "DISPLAY_COST": 0.5,
