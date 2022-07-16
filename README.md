@@ -52,7 +52,7 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
   "SCAN_LINK": "https://polygonscan.com/token/0x28F8CBa2514F20a4654D41321a27b2Caf27619ef",
   "NETWORK": {
     "NAME": "Polygon",
-    "SYMBOL": "WETH",
+    "SYMBOL": "Mativ",
     "ID": 137
   },
   "NFT_NAME": "The Balinese",
