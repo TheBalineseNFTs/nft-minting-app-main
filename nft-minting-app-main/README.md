@@ -33,7 +33,7 @@ git clone https://github.com/The-Stripes-NFT/nft-minting-app.git
 Make sure you have node.js installed so you can use npm, then run:
 
 ```sh
-npm install
+npm run install
 ```
 
 ## Usage ℹ️
