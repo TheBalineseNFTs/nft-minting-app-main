@@ -116,7 +116,7 @@ Or create the build if you are ready to deploy.
 CI='' npm run build
 
 ```
-
+/opt/build-bin/build npm run build
 Now you can host the contents of the build folder on a server.
 
 That's it! you're done.
