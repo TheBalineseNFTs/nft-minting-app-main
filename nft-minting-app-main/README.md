@@ -113,7 +113,7 @@ After all the changes you can run.
 Or create the build if you are ready to deploy.
 
 ```sh
-CI='true' npm run build
+npm run build
 
 
 ```
