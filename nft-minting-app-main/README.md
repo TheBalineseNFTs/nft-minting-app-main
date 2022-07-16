@@ -107,13 +107,13 @@ Also remember to update the short_name and name fields in the `public/manifest.j
 After all the changes you can run.
 
 ```sh
- npm start
+ npm run start
 ```
 
 Or create the build if you are ready to deploy.
 
 ```sh
-npm build
+npm run build
 
 
 ```
