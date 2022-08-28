@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3BE31328CB9A64FA50EE41B015D33a90549d1C06",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3be31328cb9a64fa50ee41b015d33a90549d1c06",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "WETH",
+    "ID": 137
+  },
+  "NFT_NAME": "The Balinese",
+  "SYMBOL": "BALI",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 170000000000000000,
+  "DISPLAY_COST": 17,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thebalinesenfts",
+  "SHOW_BACKGROUND": true
+}
