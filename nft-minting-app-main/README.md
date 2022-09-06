@@ -59,7 +59,7 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
   "SYMBOL": "BALI",
   "MAX_SUPPLY": 100,
   "WEI_COST": 7000000000000000,
-  "DISPLAY_COST": 0,7,
+  "DISPLAY_COST": 0.7,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/thebalinesenfts",
