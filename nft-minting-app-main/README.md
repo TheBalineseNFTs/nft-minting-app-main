@@ -12,7 +12,7 @@ To find out more please visit:
 
 [🐦 Twitter](https://twitter.com/thebalineseNFT)
 
-[ℹ️ Website](https://thebalinesenft.netlify.app/)
+[ℹ️ Website](https://www.thebalinese.my.id/)
 
 # The Balinese NFT minting dapp 🔥
 
@@ -58,8 +58,8 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
   "NFT_NAME": "The Balinese NFTs Limited Edition",
   "SYMBOL": "BALI",
   "MAX_SUPPLY": 100,
-  "WEI_COST": 170000000000000000,
-  "DISPLAY_COST": 17,
+  "WEI_COST": 7000000000000000,
+  "DISPLAY_COST": 0,7,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/thebalinesenfts",
@@ -100,7 +100,7 @@ Also remember to update the short_name and name fields in the `public/manifest.j
 ```json
 {
   "short_name": "BALI",
-  "name": "The Balinese"
+  "name": "The Balinese NFTs Limited Edition"
 }
 ```
 
