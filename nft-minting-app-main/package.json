@@ -15,7 +15,7 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
-  "author": "The Balinese NFT",
+  "author": "The Balinese NFTs Limited Edition",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
